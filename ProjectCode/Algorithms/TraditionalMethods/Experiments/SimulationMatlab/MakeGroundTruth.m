@@ -77,7 +77,7 @@ end
 data = rescale(data);
 
 save GroundTruth.mat data
-
+ 
 
 
 % SNR levels in dB
