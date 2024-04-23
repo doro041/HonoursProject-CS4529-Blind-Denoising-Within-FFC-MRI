@@ -37,3 +37,4 @@ urllib3==2.2.1
 skimage
 bm3d
 bm4d
+fury==0.1.4 
